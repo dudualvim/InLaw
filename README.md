@@ -26,10 +26,9 @@ InLaw App
 
 | Nome                              | Matrícula  |
 | --------------------------------- | ---------- |
-| Gabriel Henrique Alberto de Jesus | 1812130083 |
 | Gabriel Salmai Camargo Farias     | 1922130017 |
 | Eduardo de Oliveira Alvim         | 2012130076 |
-| Luiz Felipe Carvalho Gomes        | 1922130018 |
+
 
 
 ## Links
